@@ -1,1 +1,2 @@
-"# Repo_Sel_74162_2025" 
+# TEST AUTOMATION FRAMEWORK
+Este es un proyecto de automatización web a modo de DEMO.
